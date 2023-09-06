@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\bin\Debug\net7.0\Moeda.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\bin\Debug\net7.0\Moeda.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\bin\Debug\net7.0\Moeda.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\bin\Debug\net7.0\Moeda.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\bin\Debug\net7.0\Moeda.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\refint\Moeda.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\Moeda.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção4-Classes, atributos, métodos, membros estáticos\Moeda\Moeda\obj\Debug\net7.0\ref\Moeda.dll
